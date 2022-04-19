@@ -1,0 +1,98 @@
+body{
+    background-color: white;
+    font-family: 'inter';
+    color: #00235c;
+}
+h1{
+    font-size: 36px;
+    width: 420px;
+    text-align: center;
+    margin-left: 460px;
+}
+.email{
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.parents_name{
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.kids_name{
+    margin-left: 400px;
+    margin-top: 60px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.class{
+    margin-left: 400px;
+    margin-top: 70px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.register{
+    color:white;
+    margin-left: 810px;
+    margin-top: 70px;
+    font-weight: 700;
+    width: 130px;
+    height: 20px;
+    padding: 13px;
+    text-align: center;
+    background: #116cff;
+    border-radius: 10px;
+}
+.borda_email{
+    width: 300px;
+    height: 40px;
+    border: 1px solid #bcd6ff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-top: -400px;
+    margin-left: 570px;
+}
+.borda_parents{
+    width: 300px;
+    height: 40px;
+    border: 1px solid #bcd6ff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-left: 570px;
+    margin-top: 33px;
+}
+.borda_kids{
+    width: 300px;
+    height: 40px;
+    border: 1px solid #bcd6ff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-left: 570px;
+    margin-top: 40px;
+}
+.borda_class{
+    width: 300px;
+    height: 40px;
+    border: 1px solid #bcd6ff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-left: 570px;
+    margin-top: 44px;
+}
+.estrela1{
+    position: absolute;
+    padding-bottom: 80px;
+    height: 80px;
+    margin-left: 400px;
+    margin-top: -440px;
+    
+}
+.estrela2{
+    position: absolute;
+    padding-bottom: 5px;
+    height: 50px;
+    margin-left: 900px;
+    margin-top: -380px;
+}
